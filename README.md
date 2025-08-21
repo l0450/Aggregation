@@ -8,10 +8,10 @@ The goal of this simple project is to list all the employees in the specific dep
 
 Classes located in the lib package:
 
-+ Date (Represents the date of birth of the employee)
-+ Employee (It provides us with a name, start day, and a salary)
-+ EmployeeRegister (An actual representation of how aggregation works)
-+ Name (First and family name of the employee)
++ **Date** (Represents the date of birth of the employee)
++ **Employee** (It provides us with a name, start day, and a salary)
++ **EmployeeRegister** (An actual representation of how aggregation works)
++ **Name** (First and family name of the employee)
   
 
 ### Playlist ###
