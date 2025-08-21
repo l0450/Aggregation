@@ -4,5 +4,14 @@
 
 ### Employee register ###
 
+The goal of this simple project is to list all the employees in the specific department. Also, the program gives us the full names of the people working in the department, given by the developer. Finally, it provides us with the number of employees who work in that department, and sums up all the salaries that they earn. Based on that, the program divides the total salaries of the employees by the number of employees to show us what is the average salary of an employee in that department.
+
+Classes located in the lib package:
+
++ Date (Represents the date of birth of the employee)
++ Employee (It provides us with a name, start day, and a salary)
++ EmployeeRegister (An actual representation of how aggregation works)
++ Name (First and family name of the employee)
+  
 
 ### Playlist ###
