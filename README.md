@@ -15,3 +15,10 @@ Classes located in the lib package:
   
 
 ### Playlist ###
+
+I implemented a small representation of how a simple playlist can be made in Java. The main class allows us to create a playlist (you can name it as you want) and add songs of your choice. Then it calculates the total number of songs and how long it will take to listen to all the songs in the playlist (in seconds). We can also see which song is found given by the specific index, play each song, remove a song, or move a song to a different place on a playlist. If the order of a playlist is not the desired one, we can shuffle the songs in it too!!!
+
+Classes located in the lib package:
+
++ **Song** (Represents the song title, the song's duration, and the artist)
++ **Playlist** (Collection of Songs)
